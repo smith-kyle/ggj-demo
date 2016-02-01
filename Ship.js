@@ -19,7 +19,7 @@
 
 // public properties:
 	Ship.TOGGLE = 60;
-	Ship.MAX_THRUST = 20;
+	Ship.MAX_THRUST = 2;
 	Ship.MAX_VELOCITY = 5;
 
 // public properties:
@@ -34,7 +34,7 @@
 
 	p.bounds;
 	p.hit;
-
+	
 
 // public methods:
 	p.makeShape = function () {
