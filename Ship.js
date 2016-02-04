@@ -22,6 +22,8 @@
 	Ship.MAX_THRUST = 2;
 	Ship.MAX_VELOCITY = 5;
 
+olksjlkjdslsj
+
 // public properties:
 	p.shipFlame;
 	p.shipBody;
@@ -34,7 +36,7 @@
 
 	p.bounds;
 	p.hit;
-	
+
 
 // public methods:
 	p.makeShape = function () {
