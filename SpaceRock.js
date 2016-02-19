@@ -1,4 +1,5 @@
 (function (window) {
+this is a new line
 
 	function SpaceRock(size) {
 		this.Shape_constructor(); // super call
