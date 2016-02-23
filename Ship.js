@@ -20,9 +20,7 @@
 // public properties:
 	Ship.TOGGLE = 60;
 	Ship.MAX_THRUST = 20;
-	Ship.MAX_VELOCITY = 5;
-
-olksjlkjdslsj
+	Ship.MAX_VELOCITY = -5;
 
 // public properties:
 	p.shipFlame;
